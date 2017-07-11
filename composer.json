@@ -1,0 +1,22 @@
+{
+    "name": "hessian/hessian-php",
+    "description": "hession php, an object library to use hessian protol",
+     "keywords": ["hessian"],
+    "type": "library",
+    "require": {
+        "php": "^5.3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carl Zhang",
+            "email": "zxwcg1321@sina.com"
+        }
+    ],
+     "autoload": {
+        "psr-0": {
+            "HessianPHP": "src"
+        }
+    },
+    "minimum-stability": "stable"
+}
