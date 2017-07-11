@@ -18,5 +18,9 @@
             "HessianPHP": "src"
         }
     },
-    "minimum-stability": "stable"
+    "extra": {
+        "branch-alias": {
+            "dev-master": "dev"
+        }
+    }
 }
