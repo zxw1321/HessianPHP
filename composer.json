@@ -1,5 +1,5 @@
 {
-    "name": "carl/hessian-php",
+    "name": "carl1321/hessian-php",
     "description": "hession php, an object library to use hessian protol, test only",
      "keywords": ["hessian"],
     "type": "library",
